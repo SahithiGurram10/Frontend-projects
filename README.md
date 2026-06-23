@@ -2,7 +2,7 @@
 
 A collection of frontend projects built using HTML, CSS, and JavaScript to improve UI/UX design skills and JavaScript fundamentals.
 
-## 🚀 Projects Included
+## Projects Included
 
 | Project Name | Description |
 |-------------|-------------|
@@ -28,7 +28,7 @@ A collection of frontend projects built using HTML, CSS, and JavaScript to impro
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 frontend-projects/
@@ -51,17 +51,17 @@ frontend-projects/
 └── README.md
 ```
 
-## 🎯 Purpose
+##  Purpose
 
 These projects were developed to strengthen frontend development skills, improve JavaScript concepts, and build a strong portfolio of interactive web applications.
 
-## 👩‍💻 Author
+##  Author
 
 **Gurram Sahithi Pratyusha**
 
 - GitHub:(https://github.com/SahithiGurram10)
 - LinkedIn:(https://www.linkedin.com/in/sahithi10/)
 
-## ⭐ Support
+##  Support
 
 If you found these projects helpful, consider giving the repository a star.
