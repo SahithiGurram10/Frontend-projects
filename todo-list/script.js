@@ -49,6 +49,7 @@ function addTodo(todo) {
     }
 }
 
+
 function updateLS() {
     todosEl = document.querySelectorAll('li')
 
