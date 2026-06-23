@@ -27,8 +27,6 @@ A collection of frontend projects built using HTML, CSS, and JavaScript to impro
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- REST APIs
-- Responsive Design
 
 ## 📂 Project Structure
 
@@ -61,8 +59,8 @@ These projects were developed to strengthen frontend development skills, improve
 
 **Gurram Sahithi Pratyusha**
 
-- GitHub:[ https://github.com/your-github-username](https://github.com/SahithiGurram10)
-- LinkedIn:[ https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sahithi10/)
+- GitHub:(https://github.com/SahithiGurram10)
+- LinkedIn:(https://www.linkedin.com/in/sahithi10/)
 
 ## ⭐ Support
 
